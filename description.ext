@@ -1,0 +1,12 @@
+#define TB_loadingScreen_imagePath "tb_loadingScreen_Operation_Titoli.jpg"
+
+onLoadName="Liberate";
+overviewPicture = "tb_loadingScreen_Operation_Titoli.jpg";
+author="Gunther.S [TacBF Team]";
+onLoadMission="Tactical Battlefield: Advance and Secure";
+
+#include "tb_description.sqh"
+#include "tb_settings.hpp"
+#include "tb_objectReplacements.hpp"
+#include "tb_magazineLimitations.hpp"
+#include "tb_supply.hpp"
